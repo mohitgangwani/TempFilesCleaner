@@ -1,0 +1,10 @@
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\bin\Release\Temp Files Cleaner.exe.config
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\bin\Release\Temp Files Cleaner.exe
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\bin\Release\Temp Files Cleaner.pdb
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp Files Cleaner.csprojAssemblyReference.cache
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp_Files_Cleaner.Form1.resources
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp_Files_Cleaner.Properties.Resources.resources
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp Files Cleaner.csproj.GenerateResource.cache
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp Files Cleaner.csproj.CoreCompileInputs.cache
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp Files Cleaner.exe
+E:\VS PROJECTS\Temp Files Cleaner\Temp Files Cleaner\obj\Release\Temp Files Cleaner.pdb
